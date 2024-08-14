@@ -1,11 +1,9 @@
-# Joshua Carisma - he/him
+# Data Scientist | Health Tech Innovator | Entrepreneur
 
-**Data Scientist | Health Innovator | Tech Enthusiast**
-
-📈 Passionate about using data to create impactful solutions in healthcare, fitness, and business.  
-⚙️ Combining Python, SQL, and AI to build tools that enhance health outcomes and drive business success.  
+📊 Passionate about using data to create impactful solutions in healthcare, fitness, and business.  
+💡 Combining Python, SQL, and AI to build tools that enhance health outcomes and drive business success.  
 🏋️‍♂️ Using technology to revolutionize fitness coaching with data-driven insights.  
-💼 Aiming to apply data science for societal good, ensuring technology benefits everyone.  
+🌟 Aiming to apply data science for societal good, ensuring technology benefits everyone.  
 🌐 Based in Los Angeles, CA
 
 ---
