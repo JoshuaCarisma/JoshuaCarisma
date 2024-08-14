@@ -13,7 +13,7 @@
 - Using data science to develop innovative solutions that advance healthcare and business practices.
 
 📩 Let’s Collaborate:  
-[LinkedIn](https://www.linkedin.com/in/joshuacarisma) | [GitHub](https://github.com/JoshuaCarisma) | [Medium](https://medium.com/@joshuacarisma)
+ [E-Mail](mailto:joshuacarisma@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma) |  [Medium](https://medium.com/@joshuacarisma)
 
 <!---
 JoshuaCarisma/JoshuaCarisma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
