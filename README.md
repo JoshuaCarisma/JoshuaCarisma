@@ -9,7 +9,7 @@
 ---
 
 💻 **What I’m Working On**:
-- Building AI-powered systems to improve client interactions and outcomes in health and fitness.
+- Building a NLP system to track and improve client outcomes within the health coaching process.
 - Using data science to develop innovative solutions that advance healthcare and business practices.
 
 📩 Let’s Collaborate:  
