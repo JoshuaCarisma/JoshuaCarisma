@@ -1,8 +1,8 @@
-# Data Scientist | Health Tech Innovator | Entrepreneur
+# Data Scientist | Health Advocate | Entrepreneur
 
-📊 Passionate about using data to create impactful solutions in healthcare, fitness, and business.  
-💡 Combining Python, SQL, and AI to build tools that enhance health outcomes and drive business success.  
-🏋️‍♂️ Using technology to revolutionize fitness coaching with data-driven insights.  
+📊 Passionate about using data to create impactful solutions in healthcare and business.  
+💡 Combining Natural Language and AI to build tools that enhance health outcomes and drive business success.  
+🏋️‍♂️ Using technology to revolutionize health and fitness coaching with data-driven insights.  
 🌟 Aiming to apply data science for societal good, ensuring technology benefits everyone.  
 🌐 Based in Los Angeles, CA
 
