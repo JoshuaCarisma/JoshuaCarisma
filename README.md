@@ -25,7 +25,7 @@ My name is Joshua Carisma and I specialize in Analytics, AI, and Active Listenin
 - Excel Expert (Microsoft 365 Apps) – Microsoft
 
 📩 **Let’s Collaborate**:  
- [E-Mail](mailto:joshuacarisma@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma) |  [Medium](https://medium.com/@joshuacarisma)
+ [E-Mail](mailto:joshuacarisma@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma) |  [Medium](https://medium.com/@joshuacarisma) (in-development)
 
 <!---
 JoshuaCarisma/JoshuaCarisma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
