@@ -1,6 +1,6 @@
 # I'm merging Technical Project Managagment with Data Science
 
-My name is Joshua Carisma and I specialize in analytics, AI, and active listening to expertly solve problems.
+My name is Joshua Carisma and I specialize in Analytics, AI, and Active Listening to expertly solve problems.
 
 ⭐ **In regards to my technical pursuits**:
 
