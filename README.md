@@ -1,11 +1,12 @@
-# Technical Project Manager | Emerging Data Scientist | Preventative Health Pioneer  
-## Hi, I'm Joshua Carisma — PMP®, ITIL®, CSM, Data Science and Analytics Certified
-I'm a Technical Project Manager specializing in analytics, AI, and active listening to expertly solve problems.
+# I'm merging Technical Project Managagment with Data Science
+My name is Joshua Carisma and I specialize in analytics, AI, and active listening to expertly solve problems.
+
 In regards to my technical pursuits:
-📊 I'm passionate about using data to create impactful solutions in healthcare and business.  
-💡 I focus on combining Natural Language Processing, Large Language Models, and Automation to build tools that enhance efficiency and drive business success.  
+
+📊 Passionate about using data to create impactful solutions in healthcare and business.  
+💡 Focusing on combining Natural Language Processing, Large Language Models, and Automation to build tools that enhance efficiency.  
 🚑 Using technology to revolutionize healthcare by prioritizing preventative care with data-driven insights.  
-🤖 Aiming to build AI systems for societal good, ensuring technology benefits everyone.  
+🤖 Building AI systems for societal good, ensuring technology benefits everyone.  
 🌎 Based in Los Angeles, CA
 
 ---
