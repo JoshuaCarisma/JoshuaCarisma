@@ -24,6 +24,22 @@ My name is Joshua Carisma and I specialize in Analytics, AI, and Active Listenin
 - Power BI Data Analyst Associate – Microsoft
 - Excel Expert (Microsoft 365 Apps) – Microsoft
 
+### 🎯 Badge Wall
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoshuaCarisma/certifications/main/images/microsoft_powerbi.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/JoshuaCarisma/certifications/main/images/microsoft_excel_expert.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/JoshuaCarisma/certifications/main/images/pmp.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/JoshuaCarisma/certifications/main/images/itil.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/JoshuaCarisma/certifications/main/images/csm.png" width="100"/>
+</p>
+
+<p align="center">
+  <b>View full certification portfolio →</b> <a href="https://github.com/JoshuaCarisma/certifications">github.com/JoshuaCarisma/certifications</a>
+</p>
+
+
+
 📩 **Let’s Collaborate**:  
  [E-Mail](mailto:joshuacarisma@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma) |  [Medium](https://medium.com/@joshuacarisma) (in-development)
 
