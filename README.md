@@ -1,28 +1,36 @@
-# I'm merging Technical Project Managagment with Data Science
+# Driving healthcare transformation through data-driven project management
 
-My name is Joshua Carisma and I specialize in Analytics, AI, and Active Listening to expertly solve problems.
+I’m **Joshua Carisma**, an analyst, strategist, and communicator who blends **data, systems thinking, and active listening** to create impactful solutions that make work — and life — flow better.
 
-⭐ **In regards to my technical pursuits**:
+---
 
-📊 Passionate about using data to create impactful solutions in healthcare and business.  
-💡 Focusing on combining Natural Language Processing, Large Language Models, and Automation to build tools that enhance efficiency.  
-🚑 Using technology to revolutionize healthcare by prioritizing preventative care with data-driven insights.  
-🤖 Building AI systems for societal good, ensuring technology benefits everyone.  
-🌎 Based in Los Angeles, CA
+⭐ **In My Technical Work**
 
+📊 My passion is translating complex healthcare and business information into insights that improve decisions, operations, and outcomes.  
+💡 My focus is on building systems that combine **analytics, automation, and AI** to help teams work smarter and with greater precision.  
+🧠 I explore the relationships between **behavior, health data, and performance**, using analytical tools to uncover what drives progress and what hinders it.  
+🤝 Drawing from my background in clinical environements, health coaching, and production coordination, I bridge the gap between **technical teams, clinicians, and end users**, ensuring every system is both technically sound and human-centered.  
+⚙️ I believe effective analytics is more than numbers, it’s a form of communication that connects insight to action.  
 
-💻 **What I’m Working On**:
-- Building a NLP system to track and improve client outcomes within the health coaching process.
-- Using data science within project management to develop innovative solutions that advance business systems.
+---
 
+💻 **What I’m Building**
+- **Clinical Operations Dashboard:** an interactive Power BI solution that visualizes patient flow, referral patterns, and outcome metrics. Designed to help healthcare teams identify inefficiencies, monitor performance, and improve continuity of care.  
+- **Health Data Correlation Analysis:** analyzing patient and lifestyle datasets to uncover patterns in engagement, outcomes, and preventive indicators. Exploring relationships between activity, nutrition, and recovery data to support data-informed wellness and operational decisions.  
+- **Healthcare Data Quality Pipeline:** automated system for cleaning and integrating coaching, scheduling, and wearable data using Python and Google Sheets, ensuring accuracy and reliability in reporting.  
+- **Analytics-Driven Habit Tracker:** turning weekly reflection and exercise data into visual insights that promote adherence and self-awareness in coaching programs.  
 
-🎓 **Academics & Certifications**:
-- Professional Certificate in Data Science and Analytics – MIT xPRO
-- Project Management Professional (PMP®) – Project Management Institute
-- Certified Scrum Master (CSM) – Scrum Alliance
-- ITIL® 4 Foundation Certification – AXELOS
-- Power BI Data Analyst Associate – Microsoft
-- Excel Expert (Microsoft 365 Apps) – Microsoft
+---
+
+🎓 **Education & Certifications**
+- MIT Professional Certificate in Data Science and Analytics  
+- Project Management Professional (PMP®) – Project Management Institute  
+- Certified Scrum Master (CSM) – Scrum Alliance  
+- ITIL® 4 Foundation – AXELOS  
+- Power BI Data Analyst Associate – Microsoft  
+- Excel Expert (Microsoft 365 Apps) – Microsoft  
+
+---
 
 ### 🎯 Badge Wall
 
@@ -38,12 +46,15 @@ My name is Joshua Carisma and I specialize in Analytics, AI, and Active Listenin
   <b>View full certification portfolio →</b> <a href="https://github.com/JoshuaCarisma/certifications">github.com/JoshuaCarisma/certifications</a>
 </p>
 
+---
 
+📩 **Let’s Connect**  
+I’m open to collaborations and roles that combine **analytics, healthcare, and project management** to build systems that create measurable human impact.  
 
-📩 **Let’s Collaborate**:  
- [E-Mail](mailto:joshuacarisma@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshuacarisma) |  [Medium](https://medium.com/@joshuacarisma) (in-development)
+[Email](mailto:joshuacarisma@gmail.com) • [LinkedIn](https://www.linkedin.com/in/joshuacarisma) • [Medium](https://medium.com/@joshuacarisma)
+
+---
 
 <!---
 JoshuaCarisma/JoshuaCarisma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
